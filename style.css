@@ -1,0 +1,25 @@
+.upper {
+    justify-content: center;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(245, 205, 131);
+    text-align: center;
+    justify-content: center;
+}
+
+.img-style {
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: aliceblue;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    margin-top: 15px;
+}
